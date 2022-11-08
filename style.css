@@ -1,10 +1,5 @@
 html { background: #333 }
-body { 
-	  display: flex; /* establish flex container */
-        flex-direction: row; /* make main axis horizontal (default value) */
-        justify-content: center; /* center items horizontally, in this case */
-        align-items: center; /* center items vertically, in this case */
-    }
+body { text-align: center }
 
 svg {
 	max-width: 25em;
